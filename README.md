@@ -1,6 +1,6 @@
 <img src="https://github.com/wj-white/wj-white.github.ioblob/master/linkedin_banner.png" />
 
-<h1>Hi Traveller, I am <a href="https://williamhathidara.com/">William (layman_brother)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm <a href="https://williamhathidara.com/">Will </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/wj-white/wj-white.github.ioblob/master/my_image.jpeg" width="230" />
 
 <a href="https://www.linkedin.com/in/william--j-white/"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/linkedin.png" width="40" /></a>
