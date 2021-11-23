@@ -1,16 +1,16 @@
-<img src="https://github.com/wj-white/wj-white/blob/master/linkedin_banner.png" />
+<img src="https://github.com/wj-white/wj-white.github.ioblob/master/linkedin_banner.png" />
 
-<h1>Hello, I'm <a href="https://williamhathidara.com/">Will </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/wj-white/wj-white/blob/master/my_image.jpeg" width="230" />
+<h1>Hi Traveller, I am <a href="https://williamhathidara.com/">William (layman_brother)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<img align='right' src="https://github.com/wj-white/wj-white.github.ioblob/master/my_image.jpeg" width="230" />
 
-<a href="https://www.linkedin.com/in/william--j-white/"><img src="https://github.com/wj-white/wj-white/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://www.youtube.com/channel/"><img src="https://github.com/wj-white/wj-white/blob/master/logos/youtube-logo.png" width="40" /></a>
-<a href="https://www.github.com/wj-white/my-logo"><img src="https://github.com/wj-white/wj-white/blob/master/logos/patreon_logo.png" width="65" /></a>
-<a href="https://github.com/wj-white"><img src="https://github.com/wj-white/wj-white/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/facebook_username/"><img src="https://github.com/wj-white/wj-white/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:williamjwhite@protonmail.com"><img src="https://github.com/wj-white/wj-white/blob/master/logos/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/twitter_user_name"><img src="https://github.com/wj-white/wj-white/blob/master/logos/twitter.png" width="40" /></a>
-<a href="https://www.instagram.com/instagram_user_name"><img src="https://github.com/wj-white/wj-white/blob/master/logos/instagram.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/william--j-white/"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/linkedin.png" width="40" /></a>
+<a href="https://www.youtube.com/channel/"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/youtube-logo.png" width="40" /></a>
+<a href="https://www.github.com/wj-white/my-logo"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/patreon_logo.png" width="65" /></a>
+<a href="https://github.com/wj-white"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/github-logo.png" width="40" /></a>
+<a href="https://www.facebook.com/facebook_username/"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/facebook.png" width="40" /></a>
+<a href="mailto:williamjwhite@protonmail.com"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/twitter_user_name"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/twitter.png" width="40" /></a>
+<a href="https://www.instagram.com/instagram_user_name"><img src="https://github.com/wj-white/wj-white.github.ioblob/master/logos/instagram.png" width="40" /></a>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
@@ -54,8 +54,8 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/wj-white/wj-white/blob/master/generated/overview.svg)
-![](https://github.com/wj-white/wj-white/blob/master/generated/languages.svg)
+![](https://github.com/wj-white/wj-white.github.ioblob/master/generated/overview.svg)
+![](https://github.com/wj-white/wj-white.github.ioblob/master/generated/languages.svg)
 
 </a>
 <!-- [![William's Github Stats](https://github-readme-stats.vercel.app/api?username=wj-white&show_icons=true&count_private=true)](https://github.com/wj-white/github-readme-stats)   -->
