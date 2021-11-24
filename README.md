@@ -1,6 +1,6 @@
 <img src="https://github.com/wj-white/wj-white/blob/main/linkedin_banner.png" />
 
-<h1>Hi, I'm <a href="https://williamjwhite.me/">Will </a><img src="https://raw.githubusercontent.com/wj-white/wj-white/main/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm <a href="https://williamjwhite.me/">Will </a><img src="https://github.com/wj-white/wj-white/blob/main/main/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/wj-white/wj-white/blob/main/my_image.jpeg" width="230" />
 
 <a href="https://www.linkedin.com/in/william--j-white/"><img src="https://github.com/wj-white/wj-white/blob/main/logos/linkedin.png" width="40" /></a>
