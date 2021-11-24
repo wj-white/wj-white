@@ -5,7 +5,6 @@
 
 <a href="https://www.linkedin.com/in/william--j-white/"><img src="https://github.com/wj-white/wj-white/blob/main/logos/linkedin.png" width="40" /></a>
 <a href="https://www.youtube.com/channel/"><img src="https://github.com/wj-white/wj-white/blob/main/logos/youtube-logo.png" width="40" /></a>
-<a href="https://www.github.com/wj-white/my-logo"><img src="https://github.com/wj-white/wj-white/blob/main/logos/patreon_logo.png" width="65" /></a>
 <a href="https://github.com/wj-white"><img src="https://github.com/wj-white/wj-white/blob/main/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/facebook_username/"><img src="https://github.com/wj-white/wj-white/blob/main/logos/facebook.png" width="40" /></a>
 <a href="mailto:williamjwhite@protonmail.com"><img src="https://github.com/wj-white/wj-white/blob/main/logos/google-plus.png" width="40" /></a>
