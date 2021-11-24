@@ -16,23 +16,13 @@
 <details>
 <summary>Technical Success Manager 📊</summary>
 <ul>
-  <li><a href="https://github.com/wj-white/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/wj-white/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/wj-white/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/wj-white/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/wj-white/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/wj-white/NQA_tf2">natural-question-answer-ai</a></li>
-  <li>Many more on and out of Github...</li>
+  <li><a href="https://docusign.com">DocuSign</a></li>
 </ul>
 </details>
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul>
-    <li><a href="https://github.com/wj-white/portfolioMaster">portfolioMaster</a></li>
-    <li><a href="https://github.com/wj-white/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/wj-white/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/wj-white/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
+    <li><a href="https://github.com/wj-white/masterPortfolio">Portfolio</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
