@@ -22,7 +22,7 @@
 <details>
 <summary>Full Stack Developer 🍥</summary>
   <ul>
-    <li><a href="https://github.com/wj-white/masterPortfolio">Portfolio</a></li>
+    <li><a href="https://github.com/wj-white/mainPortfolio">Portfolio</a></li>
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
